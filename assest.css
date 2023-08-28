@@ -1,0 +1,33 @@
+#container {
+    width: 1000px;
+    margin: auto;
+    position: relative;
+}
+h1 {
+    width: 1000px;
+   margin: auto;
+}
+h2 {
+    color: #3678B7;
+    background-color: #BAD2EA;
+}
+span {
+    color: #4e87d3;
+}
+
+.cl1 {
+    color: #27548F;
+}
+.cl2 {
+    color: rgb(121, 121, 209);
+}
+img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 35%;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
